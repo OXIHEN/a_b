@@ -1,2 +1,2 @@
 # a_b
-a_b
+print ("hello")
